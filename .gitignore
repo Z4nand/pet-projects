@@ -1,0 +1,80 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# ===========================
+# Jupyter Notebook
+# ===========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ===========================
+# Environments
+# ===========================
+.env
+.env.*
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# ===========================
+# OS/System files
+# ===========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===========================
+# IDE/Editor configs
+# ===========================
+# VS Code
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+
+# ===========================
+# Logs and misc
+# ===========================
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+
+# ===========================
+# Data files (optional)
+# ===========================
+# Общие каталоги/файлы с данными (на случай больших или внешних датасетов)
+data/
+datasets/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.h5
+*.db
+*.sqlite
+*.npz
+*.npy
